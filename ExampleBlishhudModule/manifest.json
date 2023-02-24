@@ -1,0 +1,31 @@
+{
+  "name": "ECSUhelper",
+  "version": "0.3.0",
+  "namespace": "bh.example.examplemodule",
+  "package": "ExampleBlishhudModule.dll",
+  "manifest_version": 1,
+
+  "description": "Adds an extra visual cue for good moments to enter and exit Photon Forge when playing ECSU Holosmith.",
+  "dependencies": {
+    "bh.blishhud": ">=0.11.7"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "contributors": [
+    {
+      "name": "Renske",
+      "username": "Renske.6178"
+    },
+    {
+      "name": "Dennis",
+      "username": "Val.8265"
+    },
+    {
+      "name": "Jaapm",
+      "username": "DoesNotPlayGW2.1337"
+    }
+  ],
+
+  "directories": [ "markers" ],
+  "enabled_without_gw2": false,
+  "api_permissions": {}
+}
